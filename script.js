@@ -28,3 +28,7 @@ document.addEventListener('keydown', function (e) {
     closeModal();
   }
 });
+
+const calcSum = () => {
+  console.log('sum')
+}
